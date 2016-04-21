@@ -6,10 +6,5 @@ Jeren Velletri
  
 Unas Arshad yes !!!
 
-<<<<<<< HEAD
 Roman Lisnyak
-=======
-Roman Lisnyakafkj
 
-asdfsadfasdf
->>>>>>> origin/master
